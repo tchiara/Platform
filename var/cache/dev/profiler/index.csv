@@ -1,0 +1,17 @@
+f2cb45,127.0.0.1,GET,http://web4/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1504986137,5c77f5,200
+fcebd6,127.0.0.1,GET,http://web4/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1504986137,5c77f5,200
+5c77f5,127.0.0.1,GET,http://web4/app_dev.php/,1504986137,,200
+bdfe75,127.0.0.1,GET,http://web4/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1504987017,269ef4,200
+7b589a,127.0.0.1,GET,http://web4/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1504987017,269ef4,200
+269ef4,127.0.0.1,GET,http://web4/app_dev.php/,1504987017,,200
+9dd576,127.0.0.1,GET,http://web4/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1504987961,dcb3bc,200
+60e514,127.0.0.1,GET,http://web4/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1504987961,dcb3bc,200
+dcb3bc,127.0.0.1,GET,http://web4/app_dev.php/,1504987961,,200
+7e2ca3,127.0.0.1,GET,http://web4/app_dev.php/platform,1504987972,cdb2aa,200
+cdb2aa,127.0.0.1,GET,http://web4/app_dev.php/platform,1504987972,,500
+b5512f,127.0.0.1,GET,http://web4/app_dev.php/platform,1504988729,4db8b9,200
+4db8b9,127.0.0.1,GET,http://web4/app_dev.php/platform,1504988730,,404
+8b455d,127.0.0.1,GET,http://web4/app_dev.php/platform,1504988745,dfe23a,200
+dfe23a,127.0.0.1,GET,http://web4/app_dev.php/platform,1504988745,,404
+66cb0d,127.0.0.1,GET,http://web4/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1504988753,58c27f,200
+58c27f,127.0.0.1,GET,http://web4/app_dev.php/platform/add,1504988753,,200
